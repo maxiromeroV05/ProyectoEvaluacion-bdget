@@ -43,8 +43,7 @@ bdget/
 
 ## 🌳 Estrategia de ramificación
 
-> ✏️ **A completar por el equipo.**
-> Indiquen aquí si optaron por **GitFlow** o **Trunk-Based Development**, y justifiquen la elección considerando el tamaño del proyecto, la frecuencia de cambios esperada, y el tipo de equipo (2 personas).
+El equipo utiliza **Trunk-Based Development** porque el proyecto es pequeño y está desarrollado por dos personas. Cada cambio se realiza en una rama corta y se integra rápidamente a `main` mediante Pull Request, lo que facilita la revisión y reduce los conflictos de integración.
 
 ---
 
